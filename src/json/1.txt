@@ -1,0 +1,33 @@
+// {
+        //     "id": "asd1293ufgdfgs4",
+        //     "title": "Aura",
+        //     "imageUrl": "assets/images/Aura.png",
+        //     "type": "Website",
+        //     "responsibility": [
+        //         "Web Development",
+        //         "Blockchain"
+        //     ],
+        //     "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
+        // },
+        // {
+        //     "id": "asd1293ulskmnb5",
+        //     "title": "Surtido Rico",
+        //     "imageUrl": "assets/images/Surtido.png",
+        //     "type": "Website",
+        //     "responsibility": [
+        //         "Web Development",
+        //         "Blockchain"
+        //     ],
+        //     "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+        // },
+        // {
+        //     "id": "asd1293ulkmnbj6",
+        //     "title": "Courses Management",
+        //     "imageUrl": "assets/images/ManagementApp.png",
+        //     "type": "Website",
+        //     "responsibility": [
+        //         "Web Development",
+        //         "Blockchain"
+        //     ],
+        //     "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+        // }

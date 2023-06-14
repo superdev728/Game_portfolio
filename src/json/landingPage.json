@@ -1,0 +1,862 @@
+{
+    "service" : [
+        {
+            "title": "Mobile App Development",
+            "imageUrl": "assets/images/Web.png"
+        },
+        {
+            "title": "Game Development",
+            "imageUrl": "assets/images/Game.png"
+        },
+        {
+            "title": "Metaverse Development",
+            "imageUrl": "assets/images/BlockChain.png"
+        }
+    ],
+    "portfolio" : [
+        {
+            "id": "adg5asdfgsadfs1",
+            "title": "moba game",
+            "imageUrl": "assets/images/moba.png",
+            "type": "Strategy Video Game",
+            "responsibility": [
+                "AI Controller",
+                "Photon"
+            ],
+            "detail": "Last Battle full set of complete source code + resources, pro-test MOBA class [full network first]",
+            "credit": "https://github.com/Backendeng/moba",
+            "loom": "https://www.loom.com/embed/14159ba95c3a4aa0b6ba7d58c13e883e",
+            "loom1": "https://www.loom.com/embed/4b0b6044ae794189a1be108632816660",
+            "play": ""
+        },
+        {
+            "id": "hjklkrtyjhdfgh",
+            "title": "Integration blockchain into Zomfi",
+            "imageUrl": "assets/images/Integration blockchain.png",
+            "type": "NFT Game",
+            "responsibility": [
+                "Integration blockchain into Unity"
+            ],
+            "detail": "Integration blockchain into unity with chainsafe sdk",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/83848f8cc24d4518bb747d7dd2f5d310",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asd1c9rulstmnc1",
+            "title": "Zomfi",
+            "imageUrl": "assets/images/zomfi.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "AI",
+                "UI",
+                "Design"
+            ],
+            "detail": "Zomfi game is 3D battle game. There are several small zombies and a big zombie at the end. Some of the zombies has some special abilities that can help you win the game, use them wisly! The game has 2 modes: Single player (against COM), and Multiplayer mode (Online).",
+            "credit": "https://github.com/Backendeng/zomfi",
+            "loom": "https://www.loom.com/embed/7b271dc18a554faab34a6e9a7c3596c8",
+            "loom1": "https://www.loom.com/embed/b7cf71780f54463e8a8b39bca11e6c61",
+            "play": ""
+        },
+        {
+            "id": "asd1c9rul1stmnc3",
+            "title": "Botborgs Car",
+            "imageUrl": "assets/images/botborgs_car.png",
+            "type": "Racing and Runner",
+            "responsibility": [
+                "Player Controller",
+                "Animation",
+                "Integration Wallet"
+            ],
+            "detail": " Botborgs NFT Game. The Borgverse is an open-world sci-fi-themed Metaverse that is built on a multi-planetary system. P2E open world Metaverse built on a multi-planetary system in the galaxy.",
+            "credit": "https://github.com/Backendeng/zomfi",
+            "loom": "https://www.loom.com/embed/cd9a224556a34e3f883cac8814a32b16",
+            "loom1": "https://www.loom.com/embed/748eda41aac8463db09ab0c77488d2d6",
+            "play": ""
+        },
+        {
+            "id": "asdg2933aadds1",
+            "title": "Car game",
+            "imageUrl": "assets/images/car.png",
+            "type": "Racing and Runner",
+            "responsibility": [
+                "Car Controller",
+                "UI",
+                "Animation"
+            ],
+            "detail": "Control race settings, number of racers, racer prefabs, rewards and more with a modular racing system that allows you to set race content & settings via scriptable object profiles.",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/4301153fc36c4c8689fdee50bd651ca2",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atocarrace"
+        },
+        {
+            "id": "aswerdg2933aadds1",
+            "title": "Crpyto Battle Game",
+            "imageUrl": "assets/images/cryptoBattle.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "Integration blockchain into Unity",
+                "Admin System"
+            ],
+            "detail": "Crpyto Battle game is used by MFPS 2.0 unity asset.",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/64c9baeb6fac46828bbd5aa1a2bfb959",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "82nwsdfyagsdgadf",
+            "title": "Paint Coloring Book",
+            "imageUrl": "assets/images/paintingbook.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development",
+                "Adding Firebase Store"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/f2fb0f93d93a4c38a514a1e92b29f23b",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "aswsagsdg29es33aadds1",
+            "title": "Dex Battle Game",
+            "imageUrl": "assets/images/Dexbattle.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "Integration blockchain into Unity",
+                "Game Development",
+                "Creating Map",
+                "Adding Weapon system"
+            ],
+            "detail": "Dex Battle game is used by MFPS 2.0 unity asset.  Most importantly, have fun and work together Dex battle is a community-owned skill-based shooter with different PvP and PvE game modes for every type of player. ",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/64c9baeb6fac46828bbd5aa1a2bfb959",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asd1293uhjkhkjh2",
+            "title": "Junior Tank",
+            "imageUrl": "assets/images/tank.png",
+            "type": "Other Game",
+            "responsibility": [
+                "Enermy AI",
+                "UI",
+                "Map"
+            ],
+            "detail": "A tank  is a character class commonly seen in co-op video games such as real-time strategy games, role-playing games, fighting games. Rush in guns blazing, ambush your opponents with sneaky tactics, hang back.",
+            "credit": "https://github.com/Atomotos/AtoTank",
+            "loom": "https://www.loom.com/embed/6279e2716aae456b8bf6f6dbd4d80a13",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asd1293uvbv4cbbd3",
+            "title": "Space Battle",
+            "imageUrl": "assets/images/spacebattle.png",
+            "type": "Other Game",
+            "responsibility": [
+                "Planet",
+                "Controller",
+                "UI"
+            ],
+            "detail": "Space revolves around interstellar affairs in a distant sector of the galaxy. 2D & 3D Games",
+            "credit": "https://github.com/Atomotos/AtoSpaceBattle",
+            "loom": "https://www.loom.com/embed/4cde07131a914889a25a73c5494e8628",
+            "loom1": "https://www.loom.com/embed/b2d2205507d04205ac6fca1a0c1173b7",
+            "play": "https://i.simmer.io/@AtomotosA/atospacebattle2d"
+        },
+        {
+            "id": "asd1293ufg4fgs4",
+            "title": "farm frezy",
+            "imageUrl": "assets/images/farm.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Map",
+                "Animation",
+                "Controller"
+            ],
+            "detail": "https://simmer.io/@AtomotosA/atomoagefarm      https://simmer.io/@AtomotosA/atomocowfarm        https://simmer.io/@AtomotosA/atomofantacyfarm",
+            "credit": "https://simmer.io/@AtomotosA/atomocowfarm || https://simmer.io/@AtomotosA/atomoagefarm || https://simmer.io/@AtomotosA/atomomozafarm",
+            "loom": "https://www.loom.com/embed/90caf331ee34421db83eb097162bd589",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atomofantacyfarm"
+        },
+        {
+            "id": "asd1265ulskmnb5",
+            "title": "Fighting",
+            "imageUrl": "assets/images/Fight.png",
+            "type": "Other Game",
+            "responsibility": [
+                "Character",
+                "AI",
+                "UI"
+            ],
+            "detail": "It offers a full solution for player movement, player combos, player input, an enemy wave system, enemy AI, a side-scrolling camera, audio manager and health system.",
+            "credit": "https://simmer.io/@AtomotosA/atomofight2-5d",
+            "loom": "https://www.loom.com/embed/9e8ab475e710455e869fa52799711e9d",
+            "loom1": "https://www.loom.com/embed/f7a29f5e5e8943898d083060abf59091",
+            "play": "https://i.simmer.io/@AtomotosA/atomofight2-5d"
+        },
+        {
+            "id": "asd1293ulskm235",
+            "title": "TurnBaseGame",
+            "imageUrl": "assets/images/TurnBase.png",
+            "type": "Turn Base Game",
+            "responsibility": [
+                "Game Development",
+                "AI"
+            ],
+            "detail": "This genre allows people to spend some time thinking about the implication of each move. Instead of focusing on mechanical aspects of gaming, these games usually make us use our brains and come up with the most efficient solutions.",
+            "credit": "https://simmer.io/@AtomotosA/atoturnbase",
+            "loom": "https://www.loom.com/embed/620ab7987e754687b35f0ce98eb6657c",
+            "loom1": "https://www.loom.com/embed/d916c39d5bdf484f83cb86033e764760",
+            "play": "https://i.simmer.io/@AtomotosA/atoturnbase"
+        },
+        {
+            "id": "asd1293ulsskwwmnc6",
+            "title": "ZombieGame",
+            "imageUrl": "assets/images/zombie.png",
+            "type": "Turn Base Game",
+            "responsibility": [
+                "Game Development",
+                "UI"
+            ],
+            "detail": "Feel the horror and adrenaline rush from the process of real surviving in a harsh environment!",
+            "credit": "https://github.com/Atomotos/ATOZombieGame",
+            "loom": "https://www.loom.com/embed/dd0a41dfe4d8444c9f43eac169d95006",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "wngs1sdfj323",
+            "title": "RPGGame",
+            "imageUrl": "assets/images/RPG.png",
+            "type": "Other Game",
+            "responsibility": [
+                "Game Development",
+                "Map",
+                "UI"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "https://www.loom.com/embed/3bea3f1cb3cf46d68f2470bb932125fc",
+            "loom1": "https://www.loom.com/embed/3056b2d643d94d52b0ffd4ead265b130",
+            "play": ""
+        },
+        {
+            "id": "asd1c9rulstmnc2",
+            "title": "Poker",
+            "imageUrl": "assets/images/poker.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development",
+                "Multi Progressing",
+                "UI"
+            ],
+            "detail": "- 3 cards will be flipped, and all 3 cards revealed at once. * Build Multiplayer game - Change single logic to multi using Photon server. - It will be public room without private room. I mean all players can create room and all players can see all rooms for joining. -  Use Database for store info like rewards, user etc.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "https://www.loom.com/embed/ee9756e4154c422bad581880d629b156",
+            "loom1": "",
+            "play": "https://i.simmer.io/@JamesR/poker"
+        },
+        {
+            "id": "sdgsadfstmnc3",
+            "title": "Smoloons",
+            "imageUrl": "assets/images/smoloons.png",
+            "type": "NFT Game",
+            "responsibility": [
+                "Bomberman",
+                "Photon",
+                "AI"
+            ],
+            "detail": "Just connect to the Internet, launch game, create room with a name and distribute it to your friends with whom you want to battle. Max players allowed per room = 6",
+            "credit": "https://github.com/Backendeng/Smoloons",
+            "loom": "https://www.loom.com/embed/7bd6333ab20d4a41aa316e0157e4d7fb",
+            "loom1": "https://www.loom.com/embed/b691c5d2f6414141831d1507a82e41be",
+            "play": "https://i.simmer.io/@JamesR/smoloons"
+        },
+        {
+            "id": "asd1c9sadhtmnc3",
+            "title": "Age of Kingdom",
+            "imageUrl": "assets/images/ageofkingdom.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Strategy of resource",
+                "UI"
+            ],
+            "detail": "The best battle strategy game. Strong army force is essential for ensuring peace!",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/218fee8b3ef241169e7605470862d260",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asdsrualstmnc3",
+            "title": "Pool",
+            "imageUrl": "assets/images/pool.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "UI"
+            ],
+            "detail": "The balls game is easy to win. You just have to select the table and get ready. 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "https://www.loom.com/embed/49235e98b53b47308958ac3b337e0332",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "poknsg123352qrh",
+            "title": "FPS 2 Demo",
+            "imageUrl": "assets/images/fps2demo.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "FPS",
+                "Character",
+                "AI",
+                "Photon"
+            ],
+            "detail": "FPS 2 Demo",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "https://www.loom.com/embed/3025554f0f784d85a2c46c4cb3a71b87",
+            "loom1": "https://www.loom.com/embed/6a01fb4c2ef841ca904c3f92d0be246d",
+            "play": "https://i.simmer.io/@AtomotosC/atomotos-fps-2"
+        },
+        {
+            "id": "inass34hwkejh",
+            "title": "RPG Farm",
+            "imageUrl": "assets/images/rpgfarm.png",
+            "type": "Pixel Art Game",
+            "responsibility": [
+                "2D",
+                "UI"
+            ],
+            "detail": "Independent game development is where new and revolutionary ideas get a chance to shine, unconstrained by release dates and projected profits.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atomomozafarm"
+        },
+        {
+            "id": "srulstmnc3",
+            "title": "Modern Suits",
+            "imageUrl": "assets/images/modernsuits.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Graphics",
+                "Animation"
+            ],
+            "detail": "Modern Suits Slot is a new powerful Slot game with premade Game Screen, Lobby, Pop-Ups in casual, modern, shiny, colorful style for your mobile/web/video game.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atolobby"
+        },
+        {
+            "id": "yuksaemsanc3we",
+            "title": "Easy Card Game",
+            "imageUrl": "assets/images/easycardgame.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atoeasycard"
+        },
+        {
+            "id": "ajtgtmnc234f",
+            "title": "Black Jack",
+            "imageUrl": "assets/images/backjack.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development",
+                "Card"
+            ],
+            "detail": "Blackjack is a classic casino game of luck and strategy.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atopoker"
+        },
+        {
+            "id": "woieasdf235hsdg",
+            "title": "Geography",
+            "imageUrl": "assets/images/geography.png",
+            "type": "Other Game",
+            "responsibility": [
+                "Game Development",
+                "World Map"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/999e243add0e48e0a2ce0579a4173cdd",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "aasdemnc3",
+            "title": "Platformer Genre",
+            "imageUrl": "assets/images/konghero.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "UI",
+                "Animation"
+            ],
+            "detail": "Kong Hero is the Mario game style with very funny gameplay.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/e6d217f48d804745adf9e1202501cebf",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asd1c9rulstmnc3fhdf",
+            "title": "Cokeverse",
+            "imageUrl": "assets/images/cokeverse.png",
+            "type": "NFT game",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "Metaverse Multiplayer Game.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/ece6ce255d414c4ebc6be8816eeb5452",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asd1c9rdfgjdfghc3",
+            "title": "Battle FPS",
+            "imageUrl": "assets/images/battle.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "Game Development",
+                "Battle",
+                "FPS"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/43412d13a1a54f6ea7e28f8f2577a449",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asgsdfgjdfghc3",
+            "title": "Botborgs Tank",
+            "imageUrl": "assets/images/botborgs.png",
+            "type": "Other Game",
+            "responsibility": [
+                "Game Development",
+                "Battle",
+                "FPS"
+            ],
+            "detail": " Botborgs NFT Game. The Borgverse is an open-world sci-fi-themed Metaverse that is built on a multi-planetary system. P2E open world Metaverse built on a multi-planetary system in the galaxy.",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/748eda41aac8463db09ab0c77488d2d6",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "agsdfasdfjokig",
+            "title": "Bus Runner",
+            "imageUrl": "assets/images/busRunner.png",
+            "type": "Racing and Runner",
+            "responsibility": [
+                "Game Development",
+                "Character Contoller"
+            ],
+            "detail": "Bus Subway Runner is an endless runner game in which you test your attention span and abilities to collect rewards while you speed up between moving buses.",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/7ae5f8c3df2240bfa6e33d1b3033862c",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asdg2933aadds1",
+            "title": "Car game",
+            "imageUrl": "assets/images/car1.png",
+            "type": "Racing and Runner",
+            "responsibility": [
+                "Car Controller",
+                "UI",
+                "Animation"
+            ],
+            "detail": "Control race settings, number of racers, racer prefabs, rewards and more with a modular racing system that allows you to set race content & settings via scriptable object profiles.",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/cdfe2568bec94c9faef2e81b6ef853e8",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asdg2933ttaadds1",
+            "title": "Clash of clans",
+            "imageUrl": "assets/images/car.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "UI",
+                "Integration Blockhain in app"
+            ],
+            "detail": "Remake Clash of clans game for NFT game.",
+            "credit": "",
+            "loom": "",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "ejeio234sdkkfsd",
+            "title": "Integration blockchain into DexBattle",
+            "imageUrl": "assets/images/Dexbattle.png",
+            "type": "NFT Game",
+            "responsibility": [
+                "Integration blockchain into Unity"
+            ],
+            "detail": "Integration blockchain into unity with chainsafe sdk",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/77668026eb8d4dc890a350830733dd74",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "82nwsdfyagasdf",
+            "title": "MFPS",
+            "imageUrl": "assets/images/MFPS.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "Using MFPS",
+                "Photon Pun 2"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/3025554f0f784d85a2c46c4cb3a71b87",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "82nwsdfyagsqf",
+            "title": "Solamon",
+            "imageUrl": "assets/images/Solamon.png",
+            "type": "NFT Game",
+            "responsibility": [
+                "Game Development",
+                "Solona",
+                "Integration blockchain into unity"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/6a2d6fa517c8474e93d5eda9920b45d7",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "82nwsdfyagsdgafasdf",
+            "title": "Zombie",
+            "imageUrl": "assets/images/zombie1.png",
+            "type": "Turn Base Game",
+            "responsibility": [
+                "Game Development",
+                "UI",
+                "Enermy AI",
+                "Came Controller"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/dd0a41dfe4d8444c9f43eac169d95006",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "82nwsdfyagsdgasdfdf",
+            "title": "Car Game",
+            "imageUrl": "assets/images/car2.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development",
+                "Realistic Car Controller"
+            ],
+            "detail": "portfolio Gar",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/47ec14f64a754e6e953e43d7b3cf2d12  ",
+            "loom1": "https://www.loom.com/embed/0ceae56094714617ab4fdbaabf4d7c0c ",
+            "play": ""
+        },
+        {
+            "id": "82fdgasdfdf",
+            "title": "Elonagochi",
+            "imageUrl": "assets/images/Elonagochi.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development",
+                "integration blockchain"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/be3ed2cf851646d887e15bc5d0882e68",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "gsdfsdfase",
+            "title": "Paint Coloring Book",
+            "imageUrl": "assets/images/paintingbook1.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/14d67d06ef9741dfb6308637b17beda8",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "gsds123dfsdf",
+            "title": "Undesk",
+            "imageUrl": "assets/images/Undesk.png",
+            "type": "Turn Base Game",
+            "responsibility": [
+                "Game Development"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/81c5d86a766c48a3873b0b895d83a78c",
+            "loom1": "",
+            "play": ""
+        }
+    ],
+    "dashboardPortfolio" : [
+        {
+            "id": "adg5asdfgsadfs1",
+            "title": "moba game",
+            "imageUrl": "assets/images/moba.png",
+            "type": "Strategy Video Game",
+            "responsibility": [
+                "AI Controller",
+                "Photon"
+            ],
+            "detail": "Last Battle full set of complete source code + resources, pro-test MOBA class [full network first]",
+            "credit": "https://github.com/Backendeng/moba",
+            "loom": "https://www.loom.com/embed/14159ba95c3a4aa0b6ba7d58c13e883e",
+            "loom1": "https://www.loom.com/embed/4b0b6044ae794189a1be108632816660",
+            "play": ""
+        },
+        {
+            "id": "hjklkrtyjhdfgh",
+            "title": "Integration blockchain into Zomfi",
+            "imageUrl": "assets/images/Integration blockchain.png",
+            "type": "NFT Game",
+            "responsibility": [
+                "Integration blockchain into Unity"
+            ],
+            "detail": "Integration blockchain into unity with chainsafe sdk",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/83848f8cc24d4518bb747d7dd2f5d310",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asd1c9rul1stmnc3",
+            "title": "Botborgs Car",
+            "imageUrl": "assets/images/botborgs_car.png",
+            "type": "Racing and Runner",
+            "responsibility": [
+                "Player Controller",
+                "Animation",
+                "Integration Wallet"
+            ],
+            "detail": " Botborgs NFT Game. The Borgverse is an open-world sci-fi-themed Metaverse that is built on a multi-planetary system. P2E open world Metaverse built on a multi-planetary system in the galaxy.",
+            "credit": "https://github.com/Backendeng/zomfi",
+            "loom": "https://www.loom.com/embed/cd9a224556a34e3f883cac8814a32b16",
+            "loom1": "https://www.loom.com/embed/748eda41aac8463db09ab0c77488d2d6",
+            "play": ""
+        },
+        {
+            "id": "aswerdg2933aadds1",
+            "title": "Crpyto Battle Game",
+            "imageUrl": "assets/images/cryptoBattle.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "Integration blockchain into Unity",
+                "Admin System"
+            ],
+            "detail": "Crpyto Battle game is used by MFPS 2.0 unity asset.",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/64c9baeb6fac46828bbd5aa1a2bfb959",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "82nwsdfyagsdgadf",
+            "title": "Paint Coloring Book",
+            "imageUrl": "assets/images/paintingbook.png",
+            "type": "Mobile Game",
+            "responsibility": [
+                "Game Development",
+                "Adding Firebase Store"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/f2fb0f93d93a4c38a514a1e92b29f23b",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "aswsagsdg29es33aadds1",
+            "title": "Dex Battle Game",
+            "imageUrl": "assets/images/Dexbattle.png",
+            "type": "Shooting Game",
+            "responsibility": [
+                "Integration blockchain into Unity",
+                "Game Development",
+                "Creating Map",
+                "Adding Weapon system"
+            ],
+            "detail": "Dex Battle game is used by MFPS 2.0 unity asset.  Most importantly, have fun and work together Dex battle is a community-owned skill-based shooter with different PvP and PvE game modes for every type of player. ",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/64c9baeb6fac46828bbd5aa1a2bfb959",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "asd1c9rulstmnc3fhdf",
+            "title": "Cokeverse",
+            "imageUrl": "assets/images/cokeverse.png",
+            "type": "NFT game",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "Metaverse Multiplayer Game.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/ece6ce255d414c4ebc6be8816eeb5452",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "agsdfasdfjokig",
+            "title": "Bus Runner",
+            "imageUrl": "assets/images/busRunner.png",
+            "type": "Racing and Runner",
+            "responsibility": [
+                "Game Development",
+                "Character Contoller"
+            ],
+            "detail": "Bus Subway Runner is an endless runner game in which you test your attention span and abilities to collect rewards while you speed up between moving buses.",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/7ae5f8c3df2240bfa6e33d1b3033862c",
+            "loom1": "",
+            "play": ""
+        },
+        {
+            "id": "gsds123dfsdf",
+            "title": "Undesk",
+            "imageUrl": "assets/images/Undesk.png",
+            "type": "Turn Base Game",
+            "responsibility": [
+                "Game Development"
+            ],
+            "detail": "",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/81c5d86a766c48a3873b0b895d83a78c",
+            "loom1": "",
+            "play": ""
+        }
+    ],
+    "advantage": [
+        [{
+            "title": "Communicative",
+            "description": "We communicate our project ideas and progress to make it clear.",
+            "imageUrl": "assets/images/Communicative.png"
+        },
+        {
+            "title": "Management",
+            "description": "We manage our project properly to make our project done well.",
+            "imageUrl": "assets/images/Management.png"
+        }],
+        [{
+            "title": "Collaborative​",
+            "description": "Our team are very collaborative to make our project done well.",
+            "imageUrl": "assets/images/Collaborative.png"
+        },
+        {
+            "title": "Favourite",
+            "description": "We've did so many project and all of our client love it.",
+            "imageUrl": "assets/images/Favourite.png"
+        }]
+    ],
+    "testimonial": [
+        {
+            "name": "Sasha Rose",
+            "company": "Owner, Surveyor Corps",
+            "testimoni": "Thanks for Racxstudio, you guys are the best! Keep up the great work!",
+            "imageUrl": "assets/images/Sasha.jpg"
+        },
+        {
+            "name": "Kruger Khan",
+            "company": "Director, Shultan Oil",
+            "testimoni": "I just wanted to let you know that it’s been great working with Racxstudio.",
+            "imageUrl": "assets/images/Kruger.jpg"
+        },
+        {
+            "name": "Reiner John",
+            "company": "CEO, Marley CO",
+            "testimoni": "Racxstudio is so great. Thank you so much for a job well done.",
+            "imageUrl": "assets/images/gi.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Brian Hartman",
+            "position": "CEO",
+            "imageUrl": "assets/images/BrianHartman.jpg",
+            "linkaddress": "http://atomotos.com/"
+        },
+        {
+            "name": "PatrickTaylor",
+            "position": "ProjectManager",
+            "imageUrl": "assets/images/PatrickTaylor.jpg",
+            "linkaddress": "http://atomotos.com/"
+        },
+        {
+            "name": "James Aoki",
+            "position": "Web3 & Fullstack Developer",
+            "imageUrl": "assets/images/JamesAoki.jpg",
+            "linkaddress": "https://jamesaoki.com"
+        },
+        {
+            "name": "Azmi Noh Bin Abdullah",
+            "position": "Lead developer",
+            "imageUrl": "assets/images/AzmiNohBinAbdullah.jpg",
+            "linkaddress": "https://linkedin.com/in/azminoh-abdul-595620231"
+        },
+        {
+            "name": "RobertJackson",
+            "position": "Rust & Fullstack developer",
+            "imageUrl": "assets/images/RobertJackson.jpg",
+            "linkaddress": "https://t.me/AlphaKitty1011"
+        },
+        {
+            "name": "JackieFunda",
+            "position": "Web3 & Frontend Developer",
+            "imageUrl": "assets/images/JackieFunda.jpg",
+            "linkaddress": "http://atomotos.com/"
+        },
+        {
+            "name": "RobertLee",
+            "position": "Fullstack Developer",
+            "imageUrl": "assets/images/RobertLee.jpg",
+            "linkaddress": "James.Lee318#2307"
+        },
+        {
+            "name": "VincentChao",
+            "position": "Fullstack Developer",
+            "imageUrl": "assets/images/VincentChao.jpg",
+            "linkaddress": "https://linkedin.com/in/vincent-chao-237b62235"
+        }
+    ]
+}
